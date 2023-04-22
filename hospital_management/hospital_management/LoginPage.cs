@@ -82,10 +82,6 @@ namespace hospital_management
                         }
                     }
                 }
-
-                //MessageBox.Show(t.ToString());
-                //comboBox1.DataSource = dt.DefaultView;
-                //comboBox1.DisplayMember = "deptname";
             }
             else if(comboBox1.SelectedItem.ToString() == "Admin")
             {

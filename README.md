@@ -1,6 +1,6 @@
 # Hospital_management
 
-The following project is a hospital management system which was made using c# and oracle.
+The following project is based on a hospital management system which was made using c# and oracle.
 
 It contains 3 actors i.e the doctor,the patient and the admin.
 
